@@ -1,20 +1,20 @@
 // Copyright (C) 2022 OverMighty
 // SPDX-License-Identifier: GPL-3.0-only
 
-#include "iuab/token.h"
+#include "nbajh/token.h"
 
-const char *iuab_token_type_name(enum iuab_token_type type) {
+const char *nbajh_token_type_name(enum nbajh_token_type type) {
     switch (type) {
-    case IUAB_TOKEN_EOF: return "EOF";
-    case IUAB_TOKEN_I: return "i";
-    case IUAB_TOKEN_USE: return "use";
-    case IUAB_TOKEN_ARCH: return "arch";
-    case IUAB_TOKEN_LINUX: return "linux";
-    case IUAB_TOKEN_BTW: return "btw";
-    case IUAB_TOKEN_BY: return "by";
-    case IUAB_TOKEN_THE: return "the";
-    case IUAB_TOKEN_WAY: return "way";
-    case IUAB_TOKEN_GENTOO: return "gentoo";
+    case NBAJH_TOKEN_EOF: return "EOF";
+    case NBAJH_TOKEN_DARLING: return "darling";
+    case NBAJH_TOKEN_HOLD: return "hold";
+    case NBAJH_TOKEN_MY: return "my";
+    case NBAJH_TOKEN_HAND: return "hand";
+    case NBAJH_TOKEN_NOTHING: return "nothing";
+    case NBAJH_TOKEN_BEATS: return "beats";
+    case NBAJH_TOKEN_A: return "a";
+    case NBAJH_TOKEN_JET2: return "jet2";
+    case NBAJH_TOKEN_HOLIDAY: return "holiday";
     default: return "???";
     }
 }

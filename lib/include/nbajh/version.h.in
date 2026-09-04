@@ -1,0 +1,17 @@
+// Copyright (C) 2022 OverMighty
+// SPDX-License-Identifier: GPL-3.0-only
+
+#ifndef NBAJH_VERSION_H
+#define NBAJH_VERSION_H
+
+// Major version of libnbajh.
+#define NBAJH_VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+// Minor version of libnbajh.
+#define NBAJH_VERSION_MINOR @PROJECT_VERSION_MINOR@
+// Patch version of libnbajh.
+#define NBAJH_VERSION_PATCH @PROJECT_VERSION_PATCH@
+
+// libnbajh version string.
+#define NBAJH_VERSION_STRING "libnbajh @PROJECT_VERSION@"
+
+#endif

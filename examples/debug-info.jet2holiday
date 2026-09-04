@@ -1,0 +1,9 @@
+; Example program to showcase the `holiday` keyword which the official
+; command-line interpreter handles by printing information about the program's
+; state.
+
+holiday
+darling my holiday
+darling my my my holiday
+darling my my my my my holiday
+beats holiday

@@ -4,6 +4,6 @@
 #ifndef VERSION_H
 #define VERSION_H
 
-#define VERSION_STRING "i-use-arch-btw @PROJECT_VERSION@"
+#define VERSION_STRING "nothing-beats-a-jet2-holiday @PROJECT_VERSION@"
 
 #endif // VERSION_H

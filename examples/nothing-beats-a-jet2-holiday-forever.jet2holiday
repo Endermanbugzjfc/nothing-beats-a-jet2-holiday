@@ -1,0 +1,235 @@
+; Example program that prints "Nothing beats a Jet2 holiday" forever.
+
+; Write string "Nothing beats a Jet2 holiday\n" at start of working memory.
+
+; 'N'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my darling
+; 'o'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my darling
+; 't'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my darling
+; 'h'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my darling
+; 'i'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my darling
+; 'n'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my darling
+; 'g'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my darling
+; ' '
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+darling
+; 'b'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my darling
+; 'e'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my darling
+; 'a'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my darling
+; 't'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my darling
+; 's'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my darling
+; ' '
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+darling
+; 'a'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my darling
+; ' '
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+darling
+; 'J'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my darling
+; 'e'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my darling
+; 't'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my darling
+; '2'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my darling
+; ' '
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+darling
+; 'h'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my darling
+; 'o'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my darling
+; 'l'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my darling
+; 'i'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my darling
+; 'd'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my darling
+; 'a'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my darling
+; 'y'
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my my my my my my my my
+my my my my my my my my my darling
+; '\n'
+my my my my my my my my my my darling
+
+; The string is terminated by a null byte that we will temporarily turn into a
+; non-null byte to trigger each iteration of the loop. This first incrementation
+; is to trigger the first iteration of the loop.
+my
+
+; Print loop.
+a
+    ; Turn byte after string back into null byte to mark end of string.
+    hand
+    ; Navigate data pointer back to start of string.
+    hold hold hold hold hold hold hold hold hold hold hold hold hold hold hold hold
+    hold hold hold hold hold hold hold hold hold hold hold hold hold
+
+    ; Print string (loop stops on read of the null byte after the string).
+    a
+        nothing
+        darling
+    jet2
+
+    ; Turn byte after string into non-null byte to loop again.
+    my
+jet2

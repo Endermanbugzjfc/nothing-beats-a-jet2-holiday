@@ -1,12 +1,12 @@
-# I use Arch btw language specification
+# Nothing Beats a Jet2 Holiday language specification
 
 ## Source code encoding
 
-I use Arch btw source code is text encoded in ASCII.
+Nothing Beats a Jet2 Holiday source code is text encoded in ASCII.
 
 ## Program resources
 
-I use Arch btw programs are given the following resources:
+Nothing Beats a Jet2 Holiday programs are given the following resources:
 
 - a working memory of 65,536 (2^16) 8-bit bytes,
 - a pointer initialized to point to the first byte of working memory,
@@ -28,17 +28,17 @@ end of the line.
 Programs are a sequence of commands represented in source code by the following
 keywords:
 
-| Keyword  | Meaning                                                                                                                           |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-| `i`      | Increment the data pointer by 1. It is an execution error to do so when it points to the last byte of the working memory.         |
-| `use`    | Decrement the data pointer by 1. It is an execution error to do so when it points to the first byte of the working memory.        |
-| `arch`   | Increment the value pointed to by the data pointer by 1. If it was 255, then it becomes 0.                                        |
-| `linux`  | Decrement the value pointed to by the data pointer by 1. If it was 0, then it becomes 255.                                        |
-| `btw`    | Write the value pointed to by the data pointer as character to the output file.                                                   |
-| `by`     | Read a character from the input file into the value pointed to by the data pointer.                                               |
-| `the`    | If the value pointed to by the data pointer is zero, then continue execution of the program after the matching `way` keyword.     |
-| `way`    | If the value pointed to by the data pointer is not zero, then continue execution of the program after the matching `the` keyword. |
-| `gentoo` | Call the debugging event handler.                                                                                                 |
+| Keyword   | Meaning                                                                                                                             |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------|
+| `darling` | Increment the data pointer by 1. It is an execution error to do so when it points to the last byte of the working memory.           |
+| `hold`    | Decrement the data pointer by 1. It is an execution error to do so when it points to the first byte of the working memory.          |
+| `my`      | Increment the value pointed to by the data pointer by 1. If it was 255, then it becomes 0.                                          |
+| `hand`    | Decrement the value pointed to by the data pointer by 1. If it was 0, then it becomes 255.                                          |
+| `nothing` | Write the value pointed to by the data pointer as character to the output file.                                                     |
+| `beats`   | Read a character from the input file into the value pointed to by the data pointer.                                                 |
+| `a`       | If the value pointed to by the data pointer is zero, then continue execution of the program after the matching `jet2` keyword.      |
+| `jet2`    | If the value pointed to by the data pointer is not zero, then continue execution of the program after the matching `a` keyword.     |
+| `holiday` | Call the debugging event handler.                                                                                                   |
 
 ## Whitespace
 

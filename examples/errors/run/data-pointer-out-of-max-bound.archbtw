@@ -1,6 +1,0 @@
-; Example program that should cause a "data pointer out of bounds" run-time
-; error.
-
-; Increment the data pointer forever.
-
-arch the i arch way

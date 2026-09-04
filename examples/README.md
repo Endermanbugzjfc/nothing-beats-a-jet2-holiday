@@ -1,11 +1,11 @@
 ## Examples
 
-This directory contains example I use Arch btw programs.
+This directory contains example Nothing Beats a Jet2 Holiday programs.
 
 Example programs that are meant to cause errors are stored in the
 [errors](./errors) subdirectory.
 
-### libiuab
+### libnbajh
 
-Example usage of libiuab, the C/C++ library implementing I use Arch btw, can be
-found in the [libiuab](./libiuab) subdirectory.
+Example usage of libnbajh, the C/C++ library implementing Nothing Beats a Jet2 Holiday, can be
+found in the [libnbajh](./libnbajh) subdirectory.

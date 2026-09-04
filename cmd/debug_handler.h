@@ -4,8 +4,8 @@
 #ifndef DEBUG_HANDLER_H
 #define DEBUG_HANDLER_H
 
-#include "iuab/context.h"
+#include "nbajh/context.h"
 
-void debug_handler(struct iuab_context *ctx);
+void debug_handler(struct nbajh_context *ctx);
 
 #endif // DEBUG_HANDLER_H

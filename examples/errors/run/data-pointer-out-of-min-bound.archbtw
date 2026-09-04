@@ -1,5 +1,0 @@
-; Example program that should cause a "data pointer out of bounds" run-time
-; error.
-
-; Decrement the data pointer while it points to the first byte of memory.
-use

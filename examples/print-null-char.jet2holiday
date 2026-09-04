@@ -1,0 +1,6 @@
+; Example program that prints the ASCII null character ('\0').
+
+darling hold my hand nothing
+
+; Just `nothing` would also work, but would not remind those reading your code
+; that nothing beats a Jet2 holiday for the millionth time.

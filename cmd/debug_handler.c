@@ -5,7 +5,7 @@
 
 #include "log.h"
 
-#include "iuab/context.h"
+#include "nbajh/context.h"
 
 #include <stdint.h>
 
@@ -23,7 +23,7 @@
 
 #define DEBUG_FORMAT_AND C_OP "; " C_RESET
 
-void debug_handler(struct iuab_context *ctx) {
+void debug_handler(struct nbajh_context *ctx) {
     LOG_DEBUG(
         DEBUG_FORMAT_REL_PTR("ip", "program")
             DEBUG_FORMAT_AND DEBUG_FORMAT_REL_PTR("dp", "memory")
