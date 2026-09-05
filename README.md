@@ -2,6 +2,9 @@
 
 > "Nothing Beats a Jet2 Holiday" but it's a Turing-complete programming language.
 
+> [!NOTE]
+> This repository is forked from https://github.com/overmighty/i-use-arch-btw to fulfil this idea that I found hilarious. If you wish to support projects like this, I would highly recommend starring the **upstream repository.** Thank you.
+
 ## Introduction
 
 Nothing Beats a Jet2 Holiday is an esoteric programming language based on [Brainfuck](
